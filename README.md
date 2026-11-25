@@ -1,3 +1,11 @@
+> [!IMPORTANT]
+> **This repository has moved.** Its content was consolidated into:> 
+> - **[LeoneDutra/soc-automation](https://github.com/LeoneDutra/soc-automation)**
+>
+> This repo is archived and kept only for history.
+
+---
+
 # Python for Cybersecurity
 
 This repository contains simple and practical Python scripts designed for security automation and learning.
