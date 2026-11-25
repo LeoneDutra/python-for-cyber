@@ -1,5 +1,6 @@
 > [!IMPORTANT]
-> **This repository has moved.** Its content was consolidated into:> 
+> **This repository has moved.** Its content was consolidated into:
+>
 > - **[LeoneDutra/soc-automation](https://github.com/LeoneDutra/soc-automation)**
 >
 > This repo is archived and kept only for history.
